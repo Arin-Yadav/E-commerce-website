@@ -110,7 +110,7 @@ const Navbar = ({ isSidebarOpen, setIsSidebarOpen }) => {
         <Link className="relative">
           <GiShoppingCart className="sm:text-2xl text-xl" />
           <p className="absolute -right-1.5 -bottom-1.5 w-4 text-center leading-4 bg-black text-white aspect-square rounded-full text-[8px]">
-            10
+            5
           </p>
         </Link>
         <button
